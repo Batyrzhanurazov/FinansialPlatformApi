@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c52f723-6139-4486-9190-643802fb3ecd" name="Changes" comment="" />
+    <list default="true" id="5c52f723-6139-4486-9190-643802fb3ecd" name="Changes" comment="upload project files">
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -110,8 +114,17 @@
       <workItem from="1738220089593" duration="7975000" />
       <workItem from="1738240815324" duration="7111000" />
       <workItem from="1738251645586" duration="9644000" />
-      <workItem from="1738268373283" duration="14631000" />
+      <workItem from="1738268373283" duration="19057000" />
     </task>
+    <task id="LOCAL-00001" summary="upload project files">
+      <option name="closed" value="true" />
+      <created>1738304019738</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1738304019738</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -127,6 +140,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="upload project files" />
+    <option name="LAST_COMMIT_MESSAGE" value="upload project files" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

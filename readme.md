@@ -9,33 +9,24 @@ Financial Platform API — это сервис для управления по�
 💸 Создание и просмотр транзакций
 📄 Документация API автоматически генерируется через Swagger
 
-
-## 🚀 Запуск через Docker
-
-### 1. Установите зависимости:
-- [Docker](https://www.docker.com/)
-- [Docker Compose](https://docs.docker.com/compose/install/)
-
-### 2. Клонируйте репозиторий:
+### 1. Клонируйте репозиторий:
 ```bash
 git clone https://github.com/Batyrzhanurazov/FinansialPlatformApi.git
 cd FinansialPlatformApi
 ```
 
+### 2. Установите зависимости:
+- Python 3.10
+- Pip
+```bash
+```bash
+pip install -r requirements.txt
+```
 ### 3. Запустите проект
 ```bash
-docker-compose up --build
+uvicorn main:app --reload
 ```
 
-### 🔧 Основные команды
-- Запуск миграций:
-```bash
-docker-compose exec backend alembic upgrade head
-```
-- Остановка контейнеров:
-```bash
-docker-compose down
-```
 
 ### 📖 Документация API
 
